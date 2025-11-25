@@ -1,4 +1,3 @@
-// components/Skills.tsx
 import React from 'react';
 
 const Skills: React.FC = () => {
