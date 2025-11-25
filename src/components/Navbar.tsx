@@ -1,4 +1,3 @@
-// components/Navbar.tsx
 import React, { useState, useEffect } from 'react';
 
 const Navbar: React.FC = () => {
