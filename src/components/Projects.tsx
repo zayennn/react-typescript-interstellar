@@ -1,4 +1,3 @@
-// components/Projects.tsx
 import React, { useState } from 'react';
 
 const Projects: React.FC = () => {
